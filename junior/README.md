@@ -14,10 +14,12 @@ You could build a small recipe app, or a todo list, or even a small blogging pla
 - Hit at least 1 API
 - Create seed data 
 - Write model tests 
+- Push the project to a github respository
 
 ### Ultra Bonus
 - Practice refactoring
 - Make it pretty with Bootstrap or Materialize (look into the [Rails Asset Pipeline](http://guides.rubyonrails.org/asset_pipeline.html))
-
+- Deploy to Heroku
+- Setup a build on github Actions
 
 credits: https://raw.githubusercontent.com/learn-co-curriculum/bonus-challenge-rails-mini-project/master/README.md

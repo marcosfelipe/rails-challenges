@@ -12,6 +12,10 @@ You must build a todo list:
 - Anonymous user can only visualize the list
 - Must be able to add tags to the item
 - The todo list should be filterable by tags
+- Try to create the layout like the image below:
+
+![Alt text](todo-sample.jpg?raw=true "Layout sample")
+
 
 ### Requirements
 - Have at least 3 distinct models

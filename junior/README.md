@@ -5,8 +5,13 @@
 
 ## Instructions
 
-For this mini project, you'll create a small Rails app. The topic is open-ended. 
-You could build a small recipe app, or a todo list, or even a small blogging platform.
+For this mini project, you'll create a small Rails app. 
+You must build a todo list:
+
+- Any logged in user can add/edit/delete items
+- Anonymous user can only visualize the list
+- Must be able to add tags to the item
+- The todo list should be filterable by tags
 
 ### Requirements
 - Have at least 3 distinct models
@@ -21,5 +26,6 @@ You could build a small recipe app, or a todo list, or even a small blogging pla
 - Make it pretty with Bootstrap or Materialize (look into the [Rails Asset Pipeline](http://guides.rubyonrails.org/asset_pipeline.html))
 - Deploy to Heroku
 - Setup a build on github Actions
+- Small commits and good commit messages
 
 credits: https://raw.githubusercontent.com/learn-co-curriculum/bonus-challenge-rails-mini-project/master/README.md
